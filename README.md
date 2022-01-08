@@ -1,4 +1,4 @@
-# auto-bbt
+# Automated Script for downloading the bug bounty tools
 A bash script that will automatically install a list of bug hunting tools I sometimes use for recon, exploitation, etc. (minus burp.)
 Star this repo and suggestions are always welcomed :)
 
