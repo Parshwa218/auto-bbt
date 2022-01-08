@@ -1,4 +1,5 @@
 # Automated Script for downloading the bug bounty tools
+https://img.shields.io/aur/last-modified/google-chrome
 A bash script that will automatically install a list of bug hunting tools I sometimes use for recon, exploitation, etc. (minus burp.)
 Star this repo and suggestions are always welcomed :)
 
