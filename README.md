@@ -8,10 +8,10 @@ Run this Script on your VPS or any system , It will download all the bug bounty 
 
 ```sh
 
-git clone https://github.com/0xApt/awesome-bbht.sh
-cd awesome-bbht
-chmod +x awesome-bbht.sh
-sudo ./awesome-bbht.sh
+git clone https://github.com/Parshwa219/auto-bbt
+cd auto-bbt
+chmod +x auto.sh
+sudo ./auto.sh
 ```
 
 The list of tools downloaded: 
