@@ -1,30 +1,48 @@
-# Automated Script for downloading the bug bounty tools
-[![All Contributors](https://img.shields.io/badge/updated-today-brightgreen)](#contributors-)
-
-[If I made your hunting easy then buy me a coffee](https://www.buymeacoffee.com/parshwa1337)
-
-<a href="https://www.buymeacoffee.com/parshwa1337" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
+<h4 align="center">Automated Script for downloading the bug bounty tools.</h4>
+
+
+<p align="center">
+<a href="https://github.com/Parshwa218/auto-bbt/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+<a href="https://github.com/Parshwa218/auto-bbt/releases"><img src="https://img.shields.io/github/release/projectdiscovery/mapcidr"></a>
+<img src="https://img.shields.io/badge/updated-today-brightgreen">
+</p>
+      
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#library">Library</a> 
+ 
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/parshwa1337" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> </p>
+
+## Features
 A bash script that will automatically install a list of bug hunting tools I sometimes use for recon, exploitation, etc. (minus burp.)
 Star this repo and suggestions are always welcomed :)
 
 Run this Script on your VPS or any system , It will download all the bug bounty tools with supported language and packages on one go.
 
-## Install
+## Installation
 
 ```sh
 
 git clone https://github.com/Parshwa219/auto-bbt
 cd auto-bbt
 chmod +x auto.sh
+```
+## Usage 
+```sh
 sudo ./auto.sh
 ```
 
-The list of tools downloaded: 
-
->awscli
-
+## The list of tools  latest added: 
+```sh
+awscli
+```
+# Library
 ## Subdomain-enum
 
 - [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
