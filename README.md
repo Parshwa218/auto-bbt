@@ -242,5 +242,6 @@ Find broken links, missing images, etc within your HTML.
 
 - [wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website. 
 
+- [naabu](https://github.com/projectdiscovery/naabu) - Naabu is a port scanning tool written in Go that allows you to enumerate valid ports for hosts in a fast and reliable manner
 
-
+- [mapcidr](https://github.com/projectdiscovery/mapcidr) - mapCIDR is developed to ease load distribution for mass scanning operations, it can be used both as a library and as independent CLI tool.
