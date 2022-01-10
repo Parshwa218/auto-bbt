@@ -781,3 +781,12 @@ cd /opt/tools/Wordlists
 wget https://gist.githubusercontent.com/Leoid/38984017886cd058a314dfda5c3d6c6e/raw/1ee5fe1da82a3ae92b0c486f86fbe26bbdff1e06/Nahamsec%2520Thread
 echo "done"
 
+#install naabu
+echo "downloading naabu"
+go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
+echo "done"
+
+#install mapcidr
+echo "downloading mapcidr"
+GO111MODULE=on go get -v github.com/projectdiscovery/mapcidr/cmd/mapcidr
+echo "done"
